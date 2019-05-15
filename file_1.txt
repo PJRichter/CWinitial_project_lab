@@ -1,0 +1,3 @@
+Charlie Wingate
+is learning about git.
+this is awesome!
