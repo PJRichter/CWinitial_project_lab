@@ -2,3 +2,6 @@ I'm just adding a mew line...
 Charlie Wingate
 is learning about git.
 this is awesome!
+this is peter
+i added some
+lines to your file lol
